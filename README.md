@@ -88,8 +88,8 @@ dv.paragraph("> *To modify search: Edit `targetTags` in the code block*");
 
 ### Usage Tips:
 
-Edit Tags: Modify the targetTags array
-Adjust Settings: Toggle features in displaySettings
-Save Note
-Copy Block: Duplicate for different searches
+- Edit Tags: Modify the targetTags array
+- Adjust Settings: Toggle features in displaySettings
+- Save Note
+- Copy Block: Duplicate for different searches
 
