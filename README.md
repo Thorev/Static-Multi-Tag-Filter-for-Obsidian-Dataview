@@ -5,8 +5,9 @@ Static Multi-Tag Filter for Obsidian Dataview
 ```dataviewjs
 /* ===== TAG FILTER CONFIGURATION ===== */
 const targetTags = [
-    "#Эссе", 
-    "#В_работе", 
+    "#Tag1", 
+    "#Tag2",
+    "#Tag3", 
     // Add more tags as needed
     // Format: "#tag_name"
     // Max tags: unlimited
